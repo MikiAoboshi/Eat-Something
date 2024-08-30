@@ -1,0 +1,34 @@
+.text{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+h1{
+    font-weight: bold;
+    color: #2A4474;
+}
+
+h4{
+    color: #2A4474;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    border-style: none;
+    background-color:#79baec;
+    font-size: 30px;
+    color: #2A4474;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
